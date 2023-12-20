@@ -1,5 +1,6 @@
 altair
 langchain
+openai
 numpy
 pandas
 pydeck
