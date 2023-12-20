@@ -1,4 +1,5 @@
 altair
+langchain
 numpy
 pandas
 pydeck
